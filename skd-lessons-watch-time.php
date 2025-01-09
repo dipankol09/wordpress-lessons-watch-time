@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: SKD Lessons Watch Time
+Plugin Name: DC Lessons Watch Time
 Plugin URI:  https://example.com/
 Description: Track user watch time for lessons
 Version:     1.0
-Author:      SKD
+Author:      DC
 Author URI:  https://example.com/
-Text Domain: skd-lessons-watch-time
+Text Domain: dc-lessons-watch-time
 */
 
 if (!defined('ABSPATH')) exit; // Exit if accessed directly
